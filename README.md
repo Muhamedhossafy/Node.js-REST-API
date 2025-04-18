@@ -82,5 +82,8 @@ npm run build && npm start
 ## 📜 **License**
 MIT License - Free for personal and commercial use
 
----
+
+## 📧 Contact
+- ✉️ **Email**: [muhamedammar0900@gmail.com](mailto:muhamedammar0900@gmail.com)  
+- 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)
 
